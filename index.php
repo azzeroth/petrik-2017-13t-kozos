@@ -1,8 +1,8 @@
 <?php
 
-$nev = 'HGabor';
+$nev = 'NArnold';
 $datum = new \DateTime();
 $datumStr = $datum->format('Y-m-d\TH:i:s');
-$szin = '#ff0000';
+$szin = '#aa5511';
 
 require 'contents.php';
